@@ -1,6 +1,3 @@
--- KiciaLib | by KiciaHook
--- Style identique a la photo : dark, accent bleu, triple outline, tabs, secteurs, toggles carres, sliders bleus
-
 local KiciaLib = { flags = {}, items = {} }
 
 -- Services
